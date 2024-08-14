@@ -1,3 +1,3 @@
 # Test-Repo
 
-Dibuat untuk memenuhi tugas boothcamp Api Automation
+Dibuat untuk memenuhi tugas boothcamp Sanbercode Api Automation
